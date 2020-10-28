@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**KenaTionWebTechNatz/KenaTionWebTechNatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Get To Know Me Briefly
 
 I'm a Kenyan based aspiring Full-Stack Website Developer where i hope to better my skills in the following areas:
@@ -23,4 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am a big nissan GTR R-35 Fan
+<!--
+**KenaTionWebTechNatz/KenaTionWebTechNatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
