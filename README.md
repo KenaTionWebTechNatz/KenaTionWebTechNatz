@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, my name is Keith
-#### Aspiring Full Stack Website Developer
+#### An aspiring Full Stack Website Developer
 I'm a Kenyan based aspiring Full-Stack Website Developer where i hope to better my skills in the following areas:
 
 1.  Website Development - Front-end and Back-end
