@@ -1,6 +1,3 @@
-### Hi there 👋
-
-Get To Know Me Briefly
 
 
 ### Hi there 👋, my name is Keith
