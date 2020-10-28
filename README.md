@@ -21,6 +21,7 @@ Skills:  PHP / JS / HTML / CSS
 - 📫 How to reach me: kenation215@gmail.com 
 - ⚡ Fun fact: I'm a big car enthusiast and Nissan GTR R35 is a dream car in mind 
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
 <!--
